@@ -4,7 +4,8 @@ Ageni is an open-source platform that empowers anyone to build and deploy AI age
 
 Ageni is proudly developed and maintained by REVOX, as part of our commitment to fostering innovation in AI and blockchain technologies.
 
-![create_agent6_test](https://github.com/user-attachments/assets/e4a5ad19-eeab-4760-a24e-07590c69e0f4)
+<img width="3024" height="1646" alt="403785667-e4a5ad19-eeab-4760-a24e-07590c69e0f4" src="https://github.com/user-attachments/assets/3ad95bea-544d-4378-9ca6-648c229c77c8" />
+
 
 #### Key Features:
 1. **No-Code Development**: Build, configure, and deploy AI agents through an intuitive, user-friendly interface.
