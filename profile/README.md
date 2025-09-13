@@ -1,3 +1,5 @@
+<img width="2246" height="500" alt="image" src="https://github.com/user-attachments/assets/b1983e9f-aaca-4814-afd7-c7f8380ab19e" />
+
 # Ageni: No-Code AI Agent Platform for DEFAI build by REVOX
 
 Ageni is an open-source platform that empowers anyone to build and deploy AI agents without writing a single line of code. Designed for both simplicity and power, AgenOS combines intuitive no-code tools with advanced blockchain capabilities, enabling users to create agents that go beyond text responses to execute direct on-chain crypto transactions.
